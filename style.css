@@ -1,0 +1,11 @@
+.row {
+    border:  1px solid black;
+}
+
+.jumbotron {
+    background-color: url(images/hotel-wallpaper);
+}
+.grid {
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(images/hotel-wallpaper);
+}
